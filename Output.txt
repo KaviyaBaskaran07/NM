@@ -1,0 +1,12 @@
+Chatbot: Hi! How can I help you today?
+You: I was hoping for something better.
+Chatbot: I'm really sorry to hear that. It sounds like you're feeling sadness. Let me do my best to help fix this.
+
+You: Thanks, you were helpful.
+Chatbot: Thanks for reaching out! How can I assist you further?
+
+You: I'm disappointed in your service.
+Chatbot: I'm really sorry to hear that. It sounds like you're feeling anger. Let me do my best to help fix this.
+
+You: quit
+Chatbot: Thank you for chatting with us!
